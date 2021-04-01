@@ -1,0 +1,14 @@
+{
+  "name": "generator-song-vue",
+  "version": "1.0.0",
+  "description": "vue package test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "song",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^4.8.2"
+  }
+}
